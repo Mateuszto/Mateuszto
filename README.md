@@ -5,8 +5,7 @@
 
 📫 Reach me at **matteuszto@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mateusztomczyk02/">Mateusz Tomczyk</a>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/mateusztomczyk02/">Mateusz Tomczyk</a></h3>
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>

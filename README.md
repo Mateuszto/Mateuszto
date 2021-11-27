@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mateusz</h1>
-<h3>Junior frontend Developer at Britenet</h3>
+<h3>Angular Developer at Britenet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszto&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszto" /> </p>
 

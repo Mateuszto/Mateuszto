@@ -8,4 +8,3 @@
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/mateusztomczyk02/">Mateusz Tomczyk</a></h3>
 <p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuszto&" alt="mateuszto" /></p>

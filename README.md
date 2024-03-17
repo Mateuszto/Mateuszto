@@ -1,8 +1,23 @@
-<h1>Hi 👋, I'm Mateusz</h1>
-<h3>Angular Developer</h3>
+### Hey, I'm Mateusz 👋  
+##### Software (Angular) Developer @synergycodes
 
-📫 Reach me at **matteuszto@gmail.com**
+I'm a 22-year-old developer based in Poland, and I'm passionate about programming. 
+<p></p>Full-Stack Developer & DevOps wannabe
+ 
+## 📦 Toolbox
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/mateusztomczyk02/">Mateusz Tomczyk</a></h3>
-<p align="left">
+**Frontend Development:** `Angular` `TypeScript` `Tailwind` `Angular Material` `NgRx` `RxJs`
+ 
+**Version Control:** `Git`
 
+**Backend Development (In progress):** `.NET` `C#` `SQL` `Azure DevOps Services`
+
+**Testing:** `Cypress` `Jasmine`
+
+**Others:** `Docker` `Scrum`
+ 
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mateusztomczyk02/). 
+ 

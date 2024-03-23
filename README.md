@@ -2,7 +2,7 @@
 ##### Software (Angular) Developer @synergycodes
 
 I'm a 22-year-old developer based in Poland, and I'm passionate about programming. 
-<p></p>Full-Stack Developer & DevOps wannabe
+<p></p>Software Developer & DevOps wannabe
  
 ## 📦 Toolbox
 

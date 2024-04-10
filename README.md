@@ -12,7 +12,7 @@ I'm a 22-year-old developer based in Poland, and I'm passionate about programmin
  
 **Version Control:** `Git`
 
-**Testing:** `Cypress` `Jasmine`
+**Testing:** `Cypress` `Jasmine` `Jest`
 
 **Others:** `Docker` `Scrum`
  

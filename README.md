@@ -4,7 +4,7 @@
 I'm a 22-year-old developer based in Poland, and I'm passionate about programming. 
 <p></p>Software Developer & DevOps wannabe
  
-## 📦 Toolbox
+### 📦 Toolbox
 
 **Frontend Development:** `JavaScript` `TypeScript` `Angular` `Angular Material` `NgRx`  `NgXs` `RxJs` `Tailwind` 
 
@@ -17,7 +17,7 @@ I'm a 22-year-old developer based in Poland, and I'm passionate about programmin
 **Others:** `Docker` `Scrum`
  
 
-## 📫 Contact
+### 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mateusztomczyk02/). 
  

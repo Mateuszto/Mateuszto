@@ -6,7 +6,7 @@ I'm a 22-year-old developer based in Poland, and I'm passionate about programmin
  
 ## 📦 Toolbox
 
-**Frontend Development:** `JavaScript` `TypeScript` `Angular` `Angular Material` `NgRx` `RxJs` `Tailwind` 
+**Frontend Development:** `JavaScript` `TypeScript` `Angular` `Angular Material` `NgRx`  `NgXs` `RxJs` `Tailwind` 
 
 **Backend Development (In progress):** `.NET` `C#` `SQL` `Azure DevOps Services`
  

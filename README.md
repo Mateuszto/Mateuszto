@@ -1,7 +1,7 @@
 ### Hey, I'm Mateusz 👋  
 ##### Software (Angular) Developer @synergycodes
 
-I'm a 22-year-old developer based in Poland, and I'm passionate about programming. 
+👋 Hi, I'm Mateusz! I'm a software developer based in Poland, passionate about programming.
 <p></p>Software Developer & DevOps wannabe
  
 ### 📦 Toolbox

@@ -1,7 +1,7 @@
 ### Hey, I'm Mateusz 👋  
 ##### Software (Angular) Developer @synergycodes
 
-👋 Hi, I'm Mateusz! I'm a software developer based in Poland, passionate about programming.
+I'm a software developer based in Poland, passionate about programming.
 <p></p>Software Developer & DevOps wannabe
  
 ### 📦 Toolbox

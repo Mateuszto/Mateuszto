@@ -12,7 +12,7 @@ I'm a software developer based in Poland, passionate about programming.
  
 **Version Control:** `Git`
 
-**Testing:** `Cypress` `Jasmine` `Jest`
+**Testing:** `Cypress` `Jasmine` `Karma`
 
 **Others:** `Docker` `Scrum`
  

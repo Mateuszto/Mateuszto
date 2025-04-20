@@ -10,10 +10,10 @@ I'm also diving deeper into the backend side of things with **NestJS**, aiming t
 
 ### 📦 Toolbox
 
-**Frontend Development:**  
+**Frontend:**  
 `JavaScript` `TypeScript` `Angular` `NgRx` `NgXs` `RxJs` `Angular Material` `Tailwind` `TaigaUI`
 
-**Backend Development:**  
+**Backend:**  
 `Nest.js`  
 <sub>(Previously worked with: `.NET` `C#` `SQL`)</sub>
 

@@ -15,7 +15,7 @@ I'm also diving deeper into the backend side of things with **NestJS**, aiming t
 
 **Backend:**  
 `Nest.js`  
-<sub>(Previously worked with: `.NET` `C#` `SQL`)</sub>
+<sub>(Previously worked with: `.NET` `C#` `Python` `Django` `SQL`)</sub>
 
 **Version Control:**  
 `Git`

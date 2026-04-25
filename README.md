@@ -1,10 +1,8 @@
 ### Hey, I'm Mateusz 👋  
-#### Senior Software Developer (Angular)  &nbsp;&nbsp; | &nbsp;&nbsp;  Poland
+#### Senior Software Developer &nbsp;&nbsp; | &nbsp;&nbsp; Poland
 
-I’m a software developer with several years of experience building web applications in enterprise environments.  
-Currently focused on **Angular**, working with large-scale applications, microfrontend architectures, and design system–driven development.
-
-I also have backend experience with **.NET (ASP.NET Core)** and continue to grow as a full-stack developer.
+Software developer with several years of experience building web applications in enterprise environments.  
+I've worked across the stack — backend with **.NET**, frontend with **Angular** — and I'm comfortable both with business logic and building user-facing features.
 
 ---
 
@@ -17,24 +15,21 @@ I also have backend experience with **.NET (ASP.NET Core)** and continue to grow
 `.NET` `C#` `ASP.NET Core` `Entity Framework` `SQL`  
 <sub>Also worked with: `Python` `Django`</sub>
 
-**Version Control:**  
-`Git`
-
 **Testing:**  
 `Jasmine` `Karma`
 
-**Others:**  
-`Docker` `Scrum`
+**Dev & Workflow:**  
+`Git` `Docker` `Scrum`
 
---- 
+---
 
 ### 🌍 Beyond code
 
-I stay active in the tech community by attending conferences and keeping up with industry trends.  
-In the past, I also created Angular-focused educational content and courses.
+I like staying close to what's happening in the industry — conferences, new tools, and conversations with other engineers.  
+For some time I also created Angular courses and educational content.
 
 ---
 
 ### 📫 Contact
 
-For a quick response, reach out via [LinkedIn](https://www.linkedin.com/in/mateusztomczyk02/)
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mateusztomczyk02/)

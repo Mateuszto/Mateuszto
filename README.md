@@ -2,7 +2,7 @@
 #### Senior Software Developer &nbsp;&nbsp; | &nbsp;&nbsp; Poland
 
 Software developer with several years of experience building web applications in enterprise environments.  
-I've worked across the stack — backend with **.NET**, frontend with **Angular** — and I'm comfortable both with business logic and building user-facing features.
+I've worked across the stack — backend with **Java & Spring Boot**, frontend with **Angular** — and I'm comfortable both with business logic and building user-facing features.
 
 ---
 
@@ -12,8 +12,8 @@ I've worked across the stack — backend with **.NET**, frontend with **Angular*
 `JavaScript` `TypeScript` `Angular` `RxJS` `NgRx` `NgXs` `Angular Material` `Taiga UI` `Tailwind`
 
 **Backend:**  
-`.NET` `C#` `ASP.NET Core` `Entity Framework` `SQL`  
-<sub>Also worked with: `Python` `Django`</sub>
+`Java` `Spring Boot` `SQL`  
+<sub>Also worked with: `.NET` `C#` `ASP.NET Core` `Entity Framework` `Python` `Django`</sub>
 
 **Testing:**  
 `Jasmine` `Karma`

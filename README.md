@@ -12,7 +12,7 @@ I've worked across the stack — backend with **Java & Spring Boot**, frontend w
 `JavaScript` `TypeScript` `Angular` `RxJS` `NgRx` `NgXs` `Angular Material` `Taiga UI` `Tailwind`
 
 **Backend:**  
-`Java` `Spring Boot` `SQL`  
+`Java` `Spring Boot` `PostgreSQL`  
 <sub>Also worked with: `.NET` `C#` `ASP.NET Core` `Entity Framework` `Python` `Django`</sub>
 
 **Testing:**  

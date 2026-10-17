@@ -1,32 +1,40 @@
 ### Hey, I'm Mateusz 👋  
-#### Senior Software Developer &nbsp;&nbsp; | &nbsp;&nbsp; Poland
+#### Software Engineer &nbsp;&nbsp; | &nbsp;&nbsp; Poznań, Poland
 
-Software developer with several years of experience building web applications in enterprise environments.  
-I've worked across the stack — backend with **Java & Spring Boot**, frontend with **Angular** — and I'm comfortable both with business logic and building user-facing features.
+Software engineer with 7+ years of commercial experience in **banking, healthcare, public sector and enterprise** projects.  
+Strongest in **Angular** and frontend architecture, with solid backend experience in **Java & Spring Boot** (plus .NET and Django along the way).  
+
+I care about maintainable architecture, accessibility (WCAG), and I work **AI-first**, using Claude Code, GitHub Copilot and MCP servers in my daily workflow.
 
 ---
 
 ### 📦 Toolbox
 
 **Frontend:**  
-`JavaScript` `TypeScript` `Angular` `RxJS` `NgRx` `NgXs` `Angular Material` `Taiga UI` `Tailwind`
+`Angular` `TypeScript` `JavaScript` `RxJS` `NgRx` `NGXS` `Nx` `Angular Material` `PrimeNG` `Taiga UI` `Tailwind` `Sass` `Storybook`
 
 **Backend:**  
-`Java` `Spring Boot` `PostgreSQL`  
-<sub>Also worked with: `.NET` `C#` `ASP.NET Core` `Entity Framework` `Python` `Django`</sub>
+`Java` `Spring Boot` `JPA / Hibernate` `REST` `OpenAPI` `Maven`  
+<sub>Also worked with: `C#` `.NET` `ASP.NET Core` `Entity Framework` `Python` `Django`</sub>
+
+**Databases:**  
+`PostgreSQL` `SQL Server` `Flyway`
 
 **Testing:**  
-`Jasmine` `Karma`
+`Jest` `Jasmine` `Karma` `Cypress` `Spock` `Testcontainers`
 
-**Dev & Workflow:**  
-`Git` `Docker` `Scrum`
+**DevOps & Tools:**  
+`Git` `Docker` `AWS` `Jenkins` `GitLab CI/CD` `GitHub Actions` `Dynatrace` `SonarQube` `Figma`
+
+**AI:**  
+`Claude Code` `GitHub Copilot` `AI agents` `MCP servers`
 
 ---
 
 ### 🌍 Beyond code
 
-I like staying close to what's happening in the industry — conferences, new tools, and conversations with other engineers.  
-For some time I also created Angular courses and educational content.
+I like staying close to what's happening in the industry: conferences, new tools, and conversations with other engineers.  
+I've also created Angular courses and technical videos on RxJS, and I enjoy sharing frontend good practices with other developers.
 
 ---
 

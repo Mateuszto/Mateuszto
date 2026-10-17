@@ -1,10 +1,30 @@
 ### Hey, I'm Mateusz 👋  
-#### Software Engineer &nbsp;&nbsp; | &nbsp;&nbsp; Poznań, Poland
+#### Software Engineer
+###### Poznań, Poland
 
-Software engineer with 7+ years of commercial experience in **banking, healthcare, public sector and enterprise** projects.  
-Strongest in **Angular** and frontend architecture, with solid backend experience in **Java & Spring Boot** (plus .NET and Django along the way).  
+Software engineer with 7+ years of commercial experience building web applications across **finance, healthcare, public sector and enterprise** domains.  
 
-I care about maintainable architecture, accessibility (WCAG), and I work **AI-first**, using Claude Code, GitHub Copilot and MCP servers in my daily workflow.
+I work across the stack: **Angular** on the frontend, **Java & Spring Boot** on the backend. I care about maintainable architecture, security and accessibility, and I work **AI-first** with Claude Code, GitHub Copilot and MCP servers.
+
+---
+
+### 🛠️ What I do
+
+**Frontend**
+- Frontend architecture for large Angular applications, microfrontends and monorepos (Nx)  
+- Shared component libraries and design systems, documented in Storybook  
+- Accessible UIs (WCAG) and design-to-code workflows with Figma  
+
+**Backend**
+- Integrations with external and government systems over REST and SOAP / WSDL, including XML schemas, certificates and e-invoicing  
+- Data modelling and performance tuning in PostgreSQL: query optimisation, indexing, Flyway migrations  
+- Background processing with schedulers, pollers and retry-safe workflows  
+- Taking over and modernising legacy codebases, including Java and Spring Boot upgrades  
+
+**Quality & Delivery**
+- Integration testing with Spock and Testcontainers, plus unit and E2E tests  
+- CI/CD pipelines, Dockerized environments, hardened production deployments on AWS and VPS  
+- Monitoring and error tracking in production  
 
 ---
 
@@ -14,17 +34,17 @@ I care about maintainable architecture, accessibility (WCAG), and I work **AI-fi
 `Angular` `TypeScript` `JavaScript` `RxJS` `NgRx` `NGXS` `Nx` `Angular Material` `PrimeNG` `Taiga UI` `Tailwind` `Sass` `Storybook`
 
 **Backend:**  
-`Java` `Spring Boot` `JPA / Hibernate` `REST` `OpenAPI` `Maven`  
+`Java` `Spring Boot` `Spring Security` `JPA / Hibernate` `MapStruct` `Quartz` `REST` `OpenAPI` `SOAP` `Maven`  
 <sub>Also worked with: `C#` `.NET` `ASP.NET Core` `Entity Framework` `Python` `Django`</sub>
 
 **Databases:**  
 `PostgreSQL` `SQL Server` `Flyway`
 
 **Testing:**  
-`Jest` `Jasmine` `Karma` `Cypress` `Spock` `Testcontainers`
+`Spock` `Testcontainers` `JUnit` `Jest` `Jasmine` `Karma` `Cypress`
 
 **DevOps & Tools:**  
-`Git` `Docker` `AWS` `Jenkins` `GitLab CI/CD` `GitHub Actions` `Dynatrace` `SonarQube` `Figma`
+`Git` `Docker` `AWS` `Jenkins` `GitLab CI/CD` `GitHub Actions` `Bitbucket Pipelines` `Dynatrace` `Sentry` `SonarQube` `Figma`
 
 **AI:**  
 `Claude Code` `GitHub Copilot` `AI agents` `MCP servers`
@@ -34,7 +54,7 @@ I care about maintainable architecture, accessibility (WCAG), and I work **AI-fi
 ### 🌍 Beyond code
 
 I like staying close to what's happening in the industry: conferences, new tools, and conversations with other engineers.  
-I've also created Angular courses and technical videos on RxJS, and I enjoy sharing frontend good practices with other developers.
+I've also created Angular courses and technical videos on RxJS, and I enjoy sharing good practices with other developers.
 
 ---
 

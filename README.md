@@ -1,6 +1,6 @@
 ### Hey, I'm Mateusz 👋  
 #### Software Engineer
-###### Poznań, Poland
+###### Poland
 
 Software engineer with 7+ years of commercial experience building web applications across **finance, healthcare, public sector and enterprise** domains.  
 
